@@ -11,6 +11,6 @@
   "license": "LGPL-2.1-or-later",
   "repository": {
     "type": "git",
-    "url": "https://raw.githubusercontent.com/entekworld/ArduinoCore-samd/main/"
+    "url": "https://github.com/entekworld/ArduinoCore-samd/blob/main/framework-arduino-edgedl-entek.zip"
   }
 }
